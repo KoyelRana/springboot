@@ -1,0 +1,6 @@
+com\kgfsl\springboot\model\Event.class
+com\kgfsl\springboot\repository\EventRepository.class
+com\kgfsl\springboot\model\Agenda.class
+com\kgfsl\springboot\controller\EventController.class
+com\kgfsl\springboot\SwaggerConfig.class
+com\kgfsl\springboot\OneToManyApplication.class
